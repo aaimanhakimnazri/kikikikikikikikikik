@@ -4,6 +4,11 @@
 
 Uniform Tracker is a web-based management system designed to manage commander information, attendance records, grades, and performance reports.
 
+## Live demo and repository
+
+- Live site (GitHub Pages): `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`
+- Repository: `https://github.com/YOUR-USERNAME/YOUR-REPO-NAME`
+
 ## Project Overview
 
 The system provides a centralized platform for officers to manage commander records and for commanders to monitor their own attendance and academic performance.
